@@ -1,2 +1,2 @@
-# crud-php-oop
-CRUD with PHP OOP
+# PHP OOP CRUD
+Sample implementation of CRUD using PHP Object Oriented Programming
